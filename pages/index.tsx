@@ -72,7 +72,10 @@ export default function index() {
                 type="button"
                 className="mt-8 outline-magenta font-semibold text-white bg-magenta px-5 py-1.5 shadow-lg rounded-r-lg rounded-l-lg text-base"
               >
-                Download CV
+                <a href="CV.pdf" download="CV_Noor Yulita Apsari">
+                  {" "}
+                  Download CV
+                </a>
               </button>
             </div>
           </div>
