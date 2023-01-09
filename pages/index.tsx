@@ -126,7 +126,7 @@ export default function index() {
                 <div className="grid grid-cols-1 rounded-3xl shadow-2xl lg:mt-20 md:mt-15 mt-10 outline outline-offset-1 outline-magenta">
                   <div className="mx-auto my-auto font-sans font-medium text-semiblack text-lg tracking-wide">
                     <div className="object-cover w-fit h-30 px-8 py-6 ">
-                      <img src="porto1.png" alt="" className="rounded-3xl" />
+                      <img src="porto1.svg" alt="" className="rounded-3xl" />
                     </div>
                     <div className="bg-babypink py-8 rounded-b-3xl">
                       <h2 className="font-bold text-2xl tracking-widest text-center">
@@ -156,7 +156,7 @@ export default function index() {
                 <div className="grid grid-cols-1 rounded-3xl shadow-2xl lg:mt-20 md:mt-15 mt-10 outline outline-offset-1 outline-magenta">
                   <div className="mx-auto my-auto font-sans font-medium text-semiblack text-lg tracking-wide">
                     <div className="object-cover h-30 w-full px-10 py-8">
-                      <img src="porto3.png" alt="" className="rounded-3xl" />
+                      <img src="porto2.svg" alt="" className="rounded-3xl" />
                     </div>
                     <div className="bg-babypink py-8 rounded-b-3xl">
                       <h2 className="font-bold text-2xl tracking-widest text-center">
@@ -185,7 +185,7 @@ export default function index() {
                 <div className="grid grid-cols-1 rounded-3xl shadow-2xl lg:mt-20 md:mt-15 mt-10 outline outline-offset-1 outline-magenta">
                   <div className="mx-auto my-auto font-sans font-medium text-semiblack text-lg tracking-wide">
                     <div className="object-cover w-fit h-30 px-8 py-6 ">
-                      <img src="porto1.png" alt="" className="rounded-3xl" />
+                      <img src="porto3.svg" alt="" className="rounded-3xl" />
                     </div>
                     <div className="bg-babypink py-8 rounded-b-3xl">
                       <h2 className="font-bold text-2xl tracking-widest text-center">
@@ -216,7 +216,7 @@ export default function index() {
                 <div className="grid grid-cols-1 rounded-3xl shadow-2xl lg:mt-20 md:mt-15 mt-10 outline outline-offset-1 outline-magenta">
                   <div className="mx-auto my-auto font-sans font-medium text-semiblack text-lg tracking-wide">
                     <div className="object-cover h-30 w-full px-10 py-8">
-                      <img src="porto4.png" alt="" className="rounded-3xl" />
+                      <img src="porto4.svg" alt="" className="rounded-3xl" />
                     </div>
                     <div className="bg-babypink py-8 rounded-b-3xl">
                       <h2 className="font-bold text-2xl tracking-widest text-center">
